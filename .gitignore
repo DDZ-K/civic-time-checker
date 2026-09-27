@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+publish/
+extractor-publish/
+_stage/
+*.user
+rework.json
+selftest-result.txt
+*.log
+CivicTimeChecker-v*.zip

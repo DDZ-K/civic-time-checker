@@ -1,0 +1,12 @@
+{
+  "CacheFlushMinutes": 10,
+  "MaxLogLines": 400,
+  "Folders": [
+    { "Name": "25点检", "Role": "Dispense", "Pair": "25", "ClearGlueMinutes": 15, "MessageFolder": "" },
+    { "Name": "30组装", "Role": "Bind", "Pair": "25", "MessageFolder": "" },
+    { "Name": "60点胶", "Role": "Dispense", "Pair": "60", "ClearGlueMinutes": 15, "MessageFolder": "" },
+    { "Name": "70组装", "Role": "Bind", "Pair": "60", "MessageFolder": "" },
+    { "Name": "100点胶", "Role": "Dispense", "Pair": "100", "ClearGlueMinutes": 15, "MessageFolder": "" },
+    { "Name": "110组装", "Role": "Bind", "Pair": "100", "MessageFolder": "" }
+  ]
+}

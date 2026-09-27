@@ -1,0 +1,26 @@
+{
+  "WatchRoot1": "",
+  "WatchRoot2": "",
+  "OutputRoot": "",
+  "DispenseItems": [
+    { "Station": "0025", "SaveFolder": "", "SubFolders": [] },
+    { "Station": "0060", "SaveFolder": "", "SubFolders": [] },
+    { "Station": "0100", "SaveFolder": "", "SubFolders": [] }
+  ],
+  "BindItems": [
+    { "Station": "0030", "SaveFolder": "", "SubFolders": [] },
+    { "Station": "0070", "SaveFolder": "", "SubFolders": [] },
+    { "Station": "0110", "SaveFolder": "", "SubFolders": [] }
+  ],
+  "PollIntervalSec": 1,
+  "LookbackDays": 2,
+  "KeepDays": 1,
+  "OnlyNewAfterStart": false,
+  "NewFileGraceSec": 2,
+  "MinFileBytes": 16,
+  "SizeStableChecks": 1,
+  "SizeStableIntervalMs": 120,
+  "MaxLogLines": 500,
+  "HandledSoftCap": 20000,
+  "CacheFlushMinutes": 10
+}
